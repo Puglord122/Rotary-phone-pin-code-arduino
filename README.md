@@ -1,1 +1,2 @@
 # Rotary-phone-pin-code-arduino
+Code for my arduino uno rotary phone lock, I wanted to do this project but found other resources online insufficent for completing this with minimal to no modifications to the phone, i created this in the hopes of helping those also wanting to do this without destroying a phone as such feel free to use this and modify my code to fit your needs, Happy programing! -Jake
